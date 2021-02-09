@@ -11,7 +11,7 @@ The package contains a simulation environment, based on Matlab, that reproduces 
 
 To run the simulation, set the simulation parameters in simList.csv and run simMain.m. 
 
-To reproduce the results in the paper, run simMain.m to generate results and once all the simulations are completed, run figs12.m. Note that the simulation may take several days (we ran it on a cluster and therefore the simulation took only 2 days) and therefore we recommend that you not try to generate the figures, but rather use the code to evaluate one or two data points.
+To reproduce the results in the paper, run simMain.m with the simList.csv that was provided. Once all the simulations are completed, run figs12.m. Note that the simulation may take several days (we ran it on a cluster and therefore the simulation took only 2 days) and therefore we recommend that you not try to generate the figures, but rather use the code to evaluate one or two data points.
 
 Feedback
 
