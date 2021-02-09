@@ -15,4 +15,6 @@ To reproduce the results in the paper, run simMain.m to generate results and onc
 
 Feedback
 
-Please report any bugs to Karthik Upadhya <firstname.lastname@nokia-bell-labs.com>.
+Please report any bugs to Karthik Upadhya.
+
+E-mail:<firstname.lastname@nokia-bell-labs.com>.
