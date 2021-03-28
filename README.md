@@ -13,6 +13,8 @@ To run the simulation, set the simulation parameters in simList.csv and run simM
 
 To reproduce the results in the paper, run simMain.m with the simList.csv that was provided. Once all the simulations are completed, run figs12.m. Note that the simulation may take several days (we ran it on a cluster and therefore the simulation took only 2 days) and therefore we recommend that you not try to generate the figures, but rather use the code to evaluate a few data points.
 
+Lastly, there are mistakes in some of the equations in the paper which have been listed in errata.pdf
+
 Feedback
 
 Please report any bugs to Karthik Upadhya.
